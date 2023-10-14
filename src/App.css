@@ -1,3 +1,11 @@
+/* Import Montserrat font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* Set Montserrat as the default font */
+body, button, input, textarea {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .App {
   text-align: center;
 }
